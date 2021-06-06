@@ -1,0 +1,16 @@
+{
+  "name": "login-signup",
+  "version": "1.0.0",
+  "description": "major login and signup functionality with node js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:dev": "nodemon server.js"
+  },
+  "author": "Rupesh Garhwal <rupeshgarhwal3920@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  }
+}
